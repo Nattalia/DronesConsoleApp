@@ -24,6 +24,7 @@
 -------------------- Execution instructions -------------------------
 ---------------------------------------------------------------------
 
+- Unzip file <PATH_TO_DOWNLOAD_FOLDER>\DronesConsoleApp\bin\Release\netcoreapp2.2\DronesConsoleAppDll.zip in current folder.
 - Execute: dotnet <PATH_TO_DOWNLOAD_FOLDER>\DronesConsoleApp\bin\Release\netcoreapp2.2\DronesConsoleApp.dll
     - Input parameters will be asked to the user: 
 	- Flying area format: Width(int) Height(int). Example: 5 5
