@@ -47,4 +47,8 @@ prueba 2
 
 >>>>>>> develop
 
+<<<<<<< HEAD
 rubenlr
+=======
+nataliaror
+>>>>>>> develop
