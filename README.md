@@ -38,3 +38,5 @@
 - Execute: dotnet test <PATH_TO_DOWNLOAD_FOLDER>\DronesUnitTests --logger:trx
 - Go to <PATH_TO_DOWNLOAD_FOLDER>\DronesUnitTests\TestResults to see test result.
 
+prueba
+
